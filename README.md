@@ -59,8 +59,6 @@ The database schema for this EHR system includes the following tables:
 - `Medicine`: Stores information about prescribed medicines.
 - `Prescription`: Links patients with prescribed medicines, storing the dosage information.
 
-Please refer to the schema section in the project for a detailed representation of the database schema.
-
 ## References
 
 - [Django Documentation](https://docs.djangoproject.com/)
